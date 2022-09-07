@@ -1,4 +1,4 @@
-## Data Analytics Assessment
+## Backend Solutions Engineer SQL Assessment
 
 Points to remember:
 
